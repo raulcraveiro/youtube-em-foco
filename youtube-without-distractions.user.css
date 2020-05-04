@@ -1,0 +1,15 @@
+/* ==UserStyle==
+@name           Youtube Without Distractions
+@namespace      https://github.com/raulcraveiro/youtube-without-distractions
+@version        1.0.0
+@description    Style to remove the recommended page and the related videos.
+@author         Raul Craveiro (https://craveiro.me)
+@preprocessor   default
+==/UserStyle== */
+
+@-moz-document domain("youtube.com") {
+    ytd-watch-next-secondary-results-renderer,
+    ytd-rich-grid-renderer {
+        display: none;
+    }
+}
