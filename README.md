@@ -2,6 +2,8 @@
 
 # Youtube Without Distractions
 
----
+O Youtube é um perigo para a procrastinação, com a quantidade de vídeos diferentes a todo momento na página inicial. Com uma pequena customização através de CSS, é possível remover isto e ajudar a focar no que realmente interessa.
 
-Readme coming soon.
+## Instalação
+
+Basta instalar a extensão [Stylus](https://github.com/openstyles/stylus) e depois [instalar este userstyle](https://raw.githubusercontent.com/raulcraveiro/youtube-without-distractions/master/youtube-without-distractions.user.css). Simples assim.
