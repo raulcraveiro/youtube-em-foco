@@ -6,4 +6,4 @@ O YouTube é um perigo para a procrastinação, com a quantidade de vídeos dife
 
 ## Instalação
 
-Basta instalar a extensão [Stylus](https://github.com/openstyles/stylus) e depois [instalar este userstyle](https://raw.githubusercontent.com/raulcraveiro/youtube-em-foco/master/youtube-em-foco.user.css). Simples assim.
+Basta instalar a extensão [Stylus](https://github.com/openstyles/stylus) e depois [instalar este userstyle](https://raw.githubusercontent.com/raulcraveiro/youtube-em-foco/main/youtube-em-foco.user.css). Simples assim.
